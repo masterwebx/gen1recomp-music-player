@@ -33,6 +33,10 @@ Or unzip so you have `mods/MUSIC_PLAYER/manifest.json` next to the game (portabl
 - Map music cues stay on your chosen track until you restore map music with **SELECT** in the list.
 - Favorites playlist uses the engine one-shot path so tracks can advance; if a track misbehaves, restore map music and try again.
 
+## Support
+
+If you like this mod, you can tip on [Ko-fi](https://ko-fi.com/justwex).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
