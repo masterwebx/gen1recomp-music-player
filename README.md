@@ -1,4 +1,8 @@
 # Music Player
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/91e145da-b098-43b7-b105-30a1cd584b14" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a79a2299-7a8d-4bd9-8445-83fe2b789eda" />
+
+
 
 A [gen1recomp](https://github.com/bryanthaboi/gen1recomp) mod that opens an in-game music browser on the overworld, with favorites and a now-playing HUD.
 
