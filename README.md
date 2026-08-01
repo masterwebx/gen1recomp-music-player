@@ -25,7 +25,7 @@ Favorites are stored in your save (`mod.save`).
 
 ## Install
 
-1. Download `MUSIC_PLAYER-1.2.2.zip` from [Releases](https://github.com/masterwebx/gen1recomp-music-player/releases).
+1. Download `MUSIC_PLAYER-1.2.3.zip` from [Releases](https://github.com/masterwebx/gen1recomp-music-player/releases).
 2. In gen1recomp, open the **MODS** panel and **Import mod.zip**.
 3. Enable **Music Player** (allow `engine_internals` if prompted).
 4. Restart if the manager asks you to.
