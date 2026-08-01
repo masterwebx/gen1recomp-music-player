@@ -114,7 +114,7 @@ local function restoreMap(game)
 end
 
 -- Favorites use Music.playOnce so the engine arms pendingRestore and calls
--- Music.restoreMap when the track ends — that is the reliable end signal.
+-- Music.restoreMap when the track ends - that is the reliable end signal.
 playFavoriteTrack = function(game, songId, skips)
   if not songId or not game or not game.data then return end
   skips = skips or 0
@@ -360,7 +360,7 @@ local function restoreScissor(prev)
   end
 end
 
--- Never love.graphics.scale(0.5) on Font — fractional scale shreds NN glyphs.
+-- Never love.graphics.scale(0.5) on Font - fractional scale shreds NN glyphs.
 -- Long titles scroll like a radio billboard instead of being abbreviated.
 local function drawNowPlayingChip(originX, originY)
   local name = prettyLabel(lockedSong)

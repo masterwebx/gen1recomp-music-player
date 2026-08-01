@@ -1,7 +1,7 @@
-﻿{
+{
   "id": "MUSIC_PLAYER",
   "name": "Music Player",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
