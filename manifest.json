@@ -1,26 +1,20 @@
 ﻿{
-    "id":  "MUSIC_PLAYER",
-    "name":  "Music Player",
-    "version":  "1.2.3",
-    "api":  2,
-    "entry":  "main.lua",
-    "profile":  "content",
-    "category":  "AUDIO",
-    "game_version":  "\u003e=0.1.37 \u003c2.0.0",
-    "priority":  45,
-    "dependencies":  [
-
-                     ],
-    "optional_dependencies":  [
-
-                              ],
-    "conflicts":  [
-
-                  ],
-    "permissions":  [
-                        "engine_internals"
-                    ],
-    "affects_link":  false,
-    "description":  "SELECT+A opens the music player. START marks favorites; SELECT+START plays the favorites queue (loops). SELECT in the list restores map music.",
-    "github":  "masterwebx/gen1recomp-music-player"
+  "id": "MUSIC_PLAYER",
+  "name": "Music Player",
+  "version": "1.2.3",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "AUDIO",
+  "game_version": ">=0.1.37 <2.0.0",
+  "priority": 45,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "affects_link": false,
+  "github": "masterwebx/gen1recomp-music-player",
+  "description": "SELECT+A opens the music player. START marks favorites; SELECT+START plays the favorites queue (loops). SELECT in the list restores map music."
 }
