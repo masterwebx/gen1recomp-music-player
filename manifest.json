@@ -1,0 +1,16 @@
+{
+  "id": "MUSIC_PLAYER",
+  "name": "Music Player",
+  "version": "1.2.5",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "AUDIO",
+  "game_version": ">=0.1.37 <2.0.0",
+  "priority": 45,
+  "author": "masterwebx",
+  "dependencies": [],
+  "permissions": ["engine_internals"],
+  "affects_link": false,
+  "description": "SELECT+A opens the player. START favorites; SELECT+START plays the queue."
+}
